@@ -1,7 +1,7 @@
 # Title of the page
-title: "Sof's life"
+title: "Chars's life"
 # Your name
-author: Sofía Saulés
+author: Carlos Rueda
 # Show a link to LinkedIn in the header intro. Comment out to disable.
 # linkedin: 
 # Show a link at the top of your timeline to your main personal site
@@ -15,20 +15,25 @@ show_today: true
 # Your timeline is split into periods (e.g., decades, childhood/teens/adult, "Before Timeliner"/"After Timeliner", etc)
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
-  - events:
-    - Noviembre 1992: "Nací en la, no tan concurrida hasta el momento, CDMX, antes DF."
-    - Marzo 1994: "Nació mi compañerito de aventuras y de la vida, mi hermano."
-    - Agosto 1999: "Entré a la primaria, un niño me preguntó en qué año había nacido, le dije que en 1998 y se burló de mí. Fue la primera vez que sentí vergüenza, no sabía nada de la vida ni de fechas."
+  - name: 1990's
+   - events:
+    - Julio 1989: "Naci."
+    - Abril 1998: "Ingrese a un hospital para vivir ahi poco mas de 12 meses" 
+    - Julio 1999: "Sali del hospital en silla de ruedas y mama parte"
   - name: 2000's
    - events:
-    - Diciembre 2005: "Falleció el hermano de mi mamá, tenía 30 años. Comprendí lo finita que era la vida."
-    - Agosto 2008: "Entré a la preparatoria, mi primer logro. Mi prima no se quedó entonces en la familia optaron por no felicitarme o hacerlo en "secreto"."
+    - Diciembre 2000: "Comence a dar mis primeros pasos en forma y hacia una vida normal."
+    - Febrero 2001: "Conoci el basketball para enamorarme de la vida."
+    - Marzo 2007: "Una segunda recaida y resurgia la duda sobre la naturaleza de mi cuerpo"
+    - Diciembre 2008: "Una segunda oportunidad"
+    - Agosto 2013: "Mama regreso"
   - name: 2010's
     events:
-    - Agosto 2011: "Entré a la Universidad a estudiar Biología, aunque yo quería estudiar Letras. Estaba indecisa."
-    - Diciembre 2012: "Tuve mi primera relación significativa, creí que ahí iba a estar por siempre, pero sólo fueron cuatro años y medio." 
-    - Noviembre 2017: "Me titulé. Ya quería cerrar ese ciclo"
-    
+    - Agosto 2019: "Tercera recaida. La familia se unio despues de una gran ausencia."
+    - Diciembre 2019: "El misterio se resolvio. Se llama STILL" 
   - name: 2020's
     events:
-    - Abril 2023: "Entré a estudiar a Laboratoria. Benditas segundas oportunidades"
+    - Noviembre 2020: "Fingir en el cv para poder chambear y recuperar el animo."
+    - Agosto 2021: "Conoceria a la persona que me desbloqueo varios esenarios en esta vida"
+    - Marzo 2023: "Se cae el servidor y es momento de salir de la banca"
+    - Julio 2023: "Inivitarla a salir y ver slamdunk con ella"
